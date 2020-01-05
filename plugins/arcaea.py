@@ -17,13 +17,13 @@ class Arcaea(object):
         url = 'https://arcapi.lowiro.com/8/auth/login'
         Headers = {
             'Accept': '*/*',
-            'Authorization': 'Basic UmVzdGFydDA0OlJldml2ZTkwMDA=',
+            
             'AppVersion': '2.4.7',
             'Accept-Language': 'zh-cn',
             'Cache-Control': 'no-cache',
             'Accept-Encoding': 'gzip, deflate, br',
             'Content-Type': 'application/x-www-form-urlencoded; charset=utf-8',
-            'DeviceId': '81C9D5E3-A3A0-4161-9CF9-9511F5625D2B',
+            
             'User-Agent': 'Arc-mobile/2.4.7.0 CFNetwork/1107.1 Darwin/19.0.0',
             'Content-Length': '29',
             'Connection': 'keep-alive'
